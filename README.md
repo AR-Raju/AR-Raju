@@ -33,5 +33,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-raju&show_icons=true&locale=en" alt="ar-raju" /></p>
 
-
-<p><a href="https://app.daily.dev/AsikurRahman"><img align="left" src="https://api.daily.dev/devcards/bb6d9df409934b5092011d5841cea5bc.png?r=b0c" width="400" alt="Asikur Rahman's Dev Card"/></a></p>
