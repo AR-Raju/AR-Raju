@@ -1,4 +1,4 @@
-<div style={{display:"flex", justifyContent:"space-between", alignItems: "center"}}>
+<div style="display:flex; gap: 5rem; align-items:center">
   <div>
     <h1 align="left">Hi 👋, I'm Asikur Rahman</h1>
 <h3 align="left">A passionate frontend developer from Bangladesh</h3>
