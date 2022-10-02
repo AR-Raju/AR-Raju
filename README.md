@@ -32,5 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-raju&show_icons=true&locale=en&layout=compact" alt="ar-raju" /></p>
 
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-raju&show_icons=true&locale=en" alt="ar-raju" /></p>
- <p>&nbsp:<a href="https://app.daily.dev/AsikurRahman"><img src="https://api.daily.dev/devcards/bb6d9df409934b5092011d5841cea5bc.png?r=b0c" width="400" alt="Asikur Rahman's Dev Card"/></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-raju&show_icons=true&locale=en" alt="ar-raju" /></p>
+ <p align="right"><a href="https://app.daily.dev/AsikurRahman"><img src="https://api.daily.dev/devcards/bb6d9df409934b5092011d5841cea5bc.png?r=b0c" width="400" alt="Asikur Rahman's Dev Card"/></a></p>
