@@ -36,8 +36,8 @@
 
 
 <div>
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-raju&show_icons=true&locale=en&layout=compact" alt="ar-raju" />
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=ar-raju&show_icons=true&locale=en" alt="ar-raju" />
+<img height="180em" width="350em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-raju&show_icons=true&locale=en&layout=compact" alt="ar-raju" />
+<img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=ar-raju&show_icons=true&locale=en" alt="ar-raju" />
 </div>
 
 
