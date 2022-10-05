@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Asikur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ar-raju" alt="ar-raju" /></a> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-raju&label=Profile%20views&color=0e75b6&style=flat" alt="ar-raju" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ar-raju" alt="ar-raju" /></a> </p>
 <p align="right"><a href="https://app.daily.dev/AsikurRahman"><img align="right" src="https://api.daily.dev/devcards/bb6d9df409934b5092011d5841cea5bc.png?r=b0c" width="400" alt="Asikur Rahman's Dev Card"/></a></p>
+
 
 - 🔭 I’m currently working at **Zaag Systems Ltd.**
 
@@ -18,6 +17,7 @@
 - 📫 How to reach me **asikurrahmanraju@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1m3tsxt6KrlEluIynEeil8V7HwE8KYY9o/view?usp=sharing](https://drive.google.com/file/d/1m3tsxt6KrlEluIynEeil8V7HwE8KYY9o/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,8 +35,10 @@
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-raju&show_icons=true&locale=en&layout=compact" alt="ar-raju" /></p>
+<div>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-raju&show_icons=true&locale=en&layout=compact" alt="ar-raju" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ar-raju&show_icons=true&locale=en" alt="ar-raju" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar-raju&show_icons=true&locale=en" alt="ar-raju" /></p>
 
 
