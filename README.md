@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/arraju](https://dev.to/arraju)
 
-- 📫 How to reach me **asikurrahmanraju@gmail.com**
+- 📫 How to reach me **rahman99.asikur@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1m3tsxt6KrlEluIynEeil8V7HwE8KYY9o/view?usp=sharing](https://drive.google.com/file/d/1m3tsxt6KrlEluIynEeil8V7HwE8KYY9o/view?usp=sharing)
 
