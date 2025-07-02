@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Asikur Rahman Banner" width="100%" />
+  <img src="https://ibb.co/C3N4vB9X" alt="Asikur Rahman Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Asikur Rahman</h1>
