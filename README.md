@@ -28,9 +28,6 @@
   <a href="https://dev.to/arraju" target="_blank">
     <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
   </a>
-  <a href="https://twitter.com/asikurrahman" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
 </p>
 
 ---
